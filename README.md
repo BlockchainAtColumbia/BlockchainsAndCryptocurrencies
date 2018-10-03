@@ -7,63 +7,60 @@ https://quizlet.com/269028346/blockchain-flash-cards/
 https://blockgeeks.com/guides/blockchain-glossary-from-a-z/
 
 
-Lecture 1:
+## Lecture 1: Intro to blockchains & cryptocurrencies
 10/11/18
 (DB)
-Intro to cryptography & cryptocurrencies
 Topics:
 Hashing Algorithms
 Private key/public key
 Reading:
-NBFMG Chapter 1
+NBFMG Chapter 1 
 
-
-Part 1: Bitcoin
  
-Lecture 2:
+## Lecture 2: Bitcoin Nakamoto consensus
+
 10/18/18
 (DM)
-Nakamoto consensus
 Reading:
-NBFMG Chapter 2
+NBFMG Chapter 2-5
 Bitcoin white paper
 
- 
-Lecture 3:
-10/25/18
-(DB)
-Bitcoin's protocols
 Reading:
-NBFMG Chapter 3
 Research Perspectives & Challenges section II
 Bitcoin Developer Guide sections: Block Chain, Transactions, P2P Network
 
  
-Lecture 4:
-11/1/18
+## Lecture 3: Byzantine Fault Tolerance 
+10/25/18
 (DB)
-Bitcoin applications & security
-Reading:
-NBFMG Chapter 4
-Research Perspectives & Challenges section IV
-Bitcoin Developer Guide sections: Contracts, Wallets
-A First Look at the Usability of Bitcoin Key Management sections I, II, III, VII
+NBFMG Chapter 5 section 5.5
+Research Perspectives & Challenges section III
+Bitcoin white paper section 11
+Majority is not Enough: Bitcoin Mining is Vulnerable
 
  
-Lecture 5:
+## Lecture 4: Consensus Protocols
+11/1/18
+(DB)
+Reading:
+NBFMG Chapter 8
+Research Perspectives & Challenges sections VI
+Bitcoin-NG
+ 
+## Lecture 5: Altcoins
+
 11/8/18
 (DB)
-Bitcoin mining mechanics
 Reading:
 NBFMG Chapter 5 sections 5.1, 5.2, 5.3, 5.4
 Bitcoin Developer Guide section: Mining
 Bitcoin and the Age of Bespoke Silicon
 
  
-Lecture 6:
+## Lecture 6: zk-SNARKS
+
 11/15/18
 (DM)
-Bitcoin mining strategy & attacks
 Reading:
 NBFMG Chapter 5 section 5.5
 Research Perspectives & Challenges section III
@@ -71,10 +68,10 @@ Bitcoin white paper section 11
 Majority is not Enough: Bitcoin Mining is Vulnerable
 
  
-Lecture 7:
+## Lecture 7: Applications
+
 11/22/18
 (DB)
-Bitcoin community, economics & politics
 Reading:
 NBFMG Chapter 7
 Measuring the Longitudinal Evolution of the Online Anonymous Marketplace Ecosystem sections 1, 2, 4, 5
@@ -82,22 +79,11 @@ March 2013 Chain Fork Post-Mortem
 Bitcoin faces a crossroads, needs an effective decision-making process
 
 
-Part 2: Extensions and altcoins
  
-Lecture 8:
-11/29/18
-(DM)
-Alternative approaches to mining & consensus
-Reading:
-NBFMG Chapter 8
-Research Perspectives & Challenges sections VI
-Bitcoin-NG
+## Lecture 9: Anonymity, traceability & mixing
 
- 
-Lecture 9:
-11/5/18
+11/29/18
 (DB)
-Anonymity, traceability & mixing
 Reading:
 NBFMG Chapter 6 sections 6.1, 6.2, 6.3, 6.4
 Bitcoin white paper section 10
