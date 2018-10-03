@@ -8,7 +8,7 @@ https://blockgeeks.com/guides/blockchain-glossary-from-a-z/
 
 
 Lecture 1:
-9/24/18
+10/11/18
 (DB)
 Intro to cryptography & cryptocurrencies
 Topics:
@@ -21,7 +21,7 @@ NBFMG Chapter 1
 Part 1: Bitcoin
  
 Lecture 2:
-9/26/18
+10/18/18
 (DM)
 Nakamoto consensus
 Reading:
@@ -30,7 +30,7 @@ Bitcoin white paper
 
  
 Lecture 3:
-10/ 1/18
+10/25/18
 (DB)
 Bitcoin's protocols
 Reading:
@@ -40,7 +40,7 @@ Bitcoin Developer Guide sections: Block Chain, Transactions, P2P Network
 
  
 Lecture 4:
-10/ 3/18
+11/1/18
 (DB)
 Bitcoin applications & security
 Reading:
@@ -51,7 +51,7 @@ A First Look at the Usability of Bitcoin Key Management sections I, II, III, VII
 
  
 Lecture 5:
-10/ 8/18
+11/8/18
 (DB)
 Bitcoin mining mechanics
 Reading:
@@ -61,7 +61,7 @@ Bitcoin and the Age of Bespoke Silicon
 
  
 Lecture 6:
-10/10/18
+11/15/18
 (DM)
 Bitcoin mining strategy & attacks
 Reading:
@@ -72,7 +72,7 @@ Majority is not Enough: Bitcoin Mining is Vulnerable
 
  
 Lecture 7:
-10/15/18
+11/22/18
 (DB)
 Bitcoin community, economics & politics
 Reading:
@@ -85,7 +85,7 @@ Bitcoin faces a crossroads, needs an effective decision-making process
 Part 2: Extensions and altcoins
  
 Lecture 8:
-10/17/18
+11/29/18
 (DM)
 Alternative approaches to mining & consensus
 Reading:
@@ -95,7 +95,7 @@ Bitcoin-NG
 
  
 Lecture 9:
-10/22/18
+11/5/18
 (DB)
 Anonymity, traceability & mixing
 Reading:
@@ -103,102 +103,3 @@ NBFMG Chapter 6 sections 6.1, 6.2, 6.3, 6.4
 Bitcoin white paper section 10
 Research Perspectives & Challenges section VII
 A Fistful of Bitcoins: Characterizing Payments Among Men with No Names
-
- 
-Lecture 10:
-10/24/18
-(DB)
-Privacy-enhanching & zero-knowledge cryptocurrencies
-Reading:
-NBFMG Chapter 6 section 6.5
-Zerocoin: Anonymous Distributed E-Cash from Bitcoin
-Confidential Transactions
-Zerocash: Decentralized Anonymous Payments from Bitcoin (sections 1-5)
-
- 
-Lecture 11:
-10/29/18
-(DB)
-Overview of altcoins
-Reading:
-NBFMG Chapter 10
-Research Perspectives & Challenges sections V, VIII
-An empirical study of Namecoin... sections 1, 2.3, 2.4
-
- 
-Lecture 12:
-10/31/18
-(DB)
-Overview of Ethereum
-Reading:
-Ethereum "white paper" (a good overview)
-Ethereum "yellow paper" (very in-depth)
-
- 
-Lecture 13:
-11/ 5/18
-(DB)
-Programming smart contracts on Ethereum
-Reading:
-Solidity tuorials
-Solidity developer documentation
-Historical reference: Formalizing and Securing Relationships on Public Networks
-
- 
-Lecture 14:
-11/ 7/18
-(DM)
-Case study: Ethereum & the DAO
-Reading:
-What's About to Happen to Ethereum and The DAO
-To fork or not to fork
-Scanning Live Ethereum Contracts for the "Unchecked-Send" Bug
-
- 
-Lecture 15:
-11/12/18
-(inv)
-Sidechains   (Pieter Wuille and Greg Maxwell)   [pdf]
-Reading:
-Enabling Blockchain Innovations with Pegged Sidechains
-
- 
-Lecture 16:
-11/14/18
-(BB)
-Off-chain payment channels and the lightning network
-Reading:
-The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments
-A Fast and Scalable Payment Network with Bitcoin Duplex Micropayment Channels
-
- 
-Holiday:   
-11/19/18
-Thanksgiving
- 
-Holiday:   
-11/21/18
-Thanksgiving
-
-Part 3: Cryptocurrencies & the real world
- 
-Lecture 17:
-11/26/18
-(inv)
-Legal aspects of virtual currency   (Ben Lawsky)
-Reading:
-Bitcoin: A First Legal Analysis
-Letter of support for A.B. 1326 (CoinCenter)
-A License to Kill Innovation: Why A.B. 1326 is Bad for Business, Innovation, and Privacy
-
- 
-Lecture 18:
-11/28/18
-(DB)
-Advanced Topics I: Post-quantum crypto, seg wit & aggregate signatures
-Reading:
-Introduction to post-quantum cryptography
-Segregated witness benefits
-Mimblewimble
-
-
