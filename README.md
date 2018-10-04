@@ -13,13 +13,13 @@ https://blockgeeks.com/guides/blockchain-glossary-from-a-z/
 
 | Lecture | Date | Topic | Speaker | Readings |
 | :--- | :---  | :---  | :---  | :---  |
-| 1   | 10/11 | **Intro to Blockchains & Cryptocurrencies**  <br> Syllabus, Distributed Ledger Technology, Structure of a Blockchain, Wallets  | Martin & Julian  |  Temp |
-| 2   | 10/18 | **Bitcoin Network** <br>  Intro to Mining, SPV Nodes, Types of Attacks | Martin & Julian  |  Temp  |
-| 3   | 10/25 | **Byzantine Fault Tolerance**     | Temp  |  Temp |
-| 4   | 11/01 | **Consensus Protocols**       | Temp     |  Temp  |
-| 5   | 11/08 | **Altcoins**     | Temp  |  Temp |
-| 6   | 11/15 | **zk-Snarks**       | Temp     |  Temp  |
-| 7   | 11/29 | **Applications**      | Temp     |  Temp  |
+| 1   | 10/11 | **Intro to Blockchains & Cryptocurrencies**  <br> Syllabus, Distributed Ledger Technology, Structure of a Blockchain, Wallets  | Martin & Julian  |  TBA |
+| 2   | 10/18 | **Bitcoin Network** <br>  Intro to Mining, SPV Nodes, Types of Attacks | Martin & Julian  |  TBA  |
+| 3   | 10/25 | **Byzantine Fault Tolerance** <br>  Byzantine General's Problem, Byzantine Agreement  | TBA  |  TBA |
+| 4   | 11/01 | **Consensus Protocols** <br>  Proof of stake, proof of work, and alternatives  | TBA   |  TBA  |
+| 5   | 11/08 | **Altcoins** <br>  Smart Contracts, Stable Coins, ETC  | TBA  |  TBA |
+| 6   | 11/15 | **zk-Snarks** <br>  Zcash and zk-SNARKS  | Dr. Eran Tromer  |  TBA  |
+| 7   | 11/29 | **Applications** <br> Health Care etc.  | Dr. Tej Anand  |  TBA  |
 
 ## Lecture 1: Intro to Blockchains & Cryptocurrencies
 10/11/18
