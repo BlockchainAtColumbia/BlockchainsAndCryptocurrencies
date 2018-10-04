@@ -6,8 +6,22 @@ https://quizlet.com/269028346/blockchain-flash-cards/
 
 https://blockgeeks.com/guides/blockchain-glossary-from-a-z/
 
+## [Location](https://www.google.com/maps/place/Barnard+Hall/@40.8086986,-73.9637763,18z/data=!4m5!3m4!1s0x0:0xcb13ae98cab54656!8m2!3d40.8092104!4d-73.963948): Barnard Hall Room 409
 
-## Lecture 1: Intro to blockchains & cryptocurrencies
+## [Date and Time](https://calendar.google.com/calendar?cid=Y29sdW1iaWEuZWR1X2l2Z24wODdibGU5bWhhZ3ZoZGZpc3FtcmRzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) : Weekly on Thursday from 6:00 - 7:00 pm
+------
+
+| Lecture | Date | Topic | Speaker | Readings |
+| :--- | :---  | :---  | :---  | :---  |
+| 1   | 10/11 | **Intro to Blockchains & Cryptocurrencies**  <br> Syllabus, Distributed Ledger Technology, Structure of a Blockchain, Wallets  | Martin & Julian  |  Temp |
+| 2   | 10/18 | **Bitcoin Network** <br>  Intro to Mining, SPV Nodes, Types of Attacks | Martin & Julian  |  Temp  |
+| 3   | 10/25 | **Byzantine Fault Tolerance**     | Temp  |  Temp |
+| 4   | 11/01 | **Consensus Protocols**       | Temp     |  Temp  |
+| 5   | 11/08 | **Altcoins**     | Temp  |  Temp |
+| 6   | 11/15 | **zk-Snarks**       | Temp     |  Temp  |
+| 7   | 11/29 | **Applications**      | Temp     |  Temp  |
+
+## Lecture 1: Intro to Blockchains & Cryptocurrencies
 10/11/18
 (DB)
 Topics:
@@ -17,7 +31,7 @@ Reading:
 NBFMG Chapter 1 
 
  
-## Lecture 2: Bitcoin Nakamoto consensus
+## Lecture 2: Bitcoin Network
 
 10/18/18
 (DM)
@@ -78,14 +92,3 @@ Measuring the Longitudinal Evolution of the Online Anonymous Marketplace Ecosyst
 March 2013 Chain Fork Post-Mortem
 Bitcoin faces a crossroads, needs an effective decision-making process
 
-
- 
-## Lecture 9: Anonymity, traceability & mixing
-
-11/29/18
-(DB)
-Reading:
-NBFMG Chapter 6 sections 6.1, 6.2, 6.3, 6.4
-Bitcoin white paper section 10
-Research Perspectives & Challenges section VII
-A Fistful of Bitcoins: Characterizing Payments Among Men with No Names
