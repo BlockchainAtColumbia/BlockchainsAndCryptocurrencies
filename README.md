@@ -2,9 +2,13 @@
 
 Blockchain at Columbia will facilitate a free non-credit course titled Blockchain and Cryptocurrencies. The lectures will be held once a week and taught by B@C officers, guest speakers, and Columbia faculty members. The curriculum of the course will provide an overview of cryptography, consensus mechanisms, Bitcoin mining and attacks, simplified payment verification, wallet security, hard/soft forks, smart contracts, decentralized applications, token economics, "fat-layer" protocols, zero-knowledge proofs, privacy chains, side-chains, regulatory concerns, and impact on environment/society (depending on the progression of the course). It will consist of readings from the textbooks Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction by Narayanan, Bonneau, Felten, Miller and Goldfeder, Mastering Bitcoin: Unlocking Digital Cryptocurrencies by Andreas Antonopoulos, as well as several white papers and research papers. 
 
+## [Contact](blockchain@columbia.edu) blockchain@columbia.edu
+
 ## [Location](https://www.google.com/maps/place/Barnard+Hall/@40.8086986,-73.9637763,18z/data=!4m5!3m4!1s0x0:0xcb13ae98cab54656!8m2!3d40.8092104!4d-73.963948): Barnard Hall Room 409
 
 ## [Date and Time](https://calendar.google.com/calendar?cid=Y29sdW1iaWEuZWR1X2l2Z24wODdibGU5bWhhZ3ZoZGZpc3FtcmRzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) : Weekly on Thursday from 6:00 - 7:00 pm
+
+## Course Syllabus
 ------
 
 | Lecture | Date | Topic | Speaker | Readings |
