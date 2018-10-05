@@ -19,5 +19,5 @@ Blockchain at Columbia will facilitate a free non-credit course titled Blockchai
 | 3   | 10/25/18 | **Byzantine Fault Tolerance** <br>  Byzantine General's Problem, Byzantine Agreement  | TBA  |  TBA |
 | 4   | 11/01/18 | **Consensus Protocols** <br>  Proof of stake, proof of work, and alternatives  | TBA   |  TBA  |
 | 5   | 11/08/18 | **Altcoins** <br>  Smart Contracts, Stable Coins, ETC  | TBA  |  TBA |
-| 6   | 11/15/18 | **zk-Snarks** <br>  Zcash and zk-SNARKS  | Dr. Eran Tromer  |  TBA  |
-| 7   | 11/29/18 | **Applications** <br> Health Care Applications  | Dr. Tej Anand  |  TBA  |
+| 6   | 11/15/18 | **zk-Snarks** <br>  Zcash and zk-SNARKS  | [Dr. Eran Tromer](https://datascience.columbia.edu/eran-tromer)  |  TBA  |
+| 7   | 11/29/18 | **Applications** <br> Health Care Applications  | [Dr. Tej Anand](http://sps.columbia.edu/technology-management/faculty/tej-anand)  |  TBA  |
