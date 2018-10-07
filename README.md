@@ -1,4 +1,4 @@
-# Blockchains and Cryptocurrencies 
+# Blockchains and Cryptocurrencies - [Fall 2018]
 
 Blockchain at Columbia will facilitate a free non-credit course titled Blockchains and Cryptocurrencies. The lectures will be held once a week and taught by B@C officers, guest speakers, and Columbia faculty members. The curriculum of the course will provide an overview of cryptography, consensus mechanisms, Bitcoin mining and attacks, simplified payment verification, wallet security, hard/soft forks, smart contracts, decentralized applications, token economics, "fat-layer" protocols, zero-knowledge proofs, privacy chains, side-chains, regulatory concerns, and impact on environment/society (depending on the progression of the course).
 
