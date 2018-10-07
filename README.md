@@ -23,7 +23,7 @@ The Fall 2018 enrollment for this course will be available to anyone in the comm
 | :--- | :---  | :---  | :---  | :---  |
 | 1   | 10/11/18 | **Intro to Blockchains & Cryptocurrencies**  <br> Syllabus, Distributed Ledger Technology, Structure of a Blockchain, Wallets  | Martin & Julian  |  N/A |
 | 2   | 10/18/18 | **Bitcoin Network** <br>  Intro to Mining, SPV Nodes, Types of Attacks | Martin & Julian  |  [Bitcoin Whitepaper](https://github.com/BlockchainAtColumbia/BlockchainsAndCryptocurrencies/blob/master/papers/Bitcoin-A-Peer-to-Peer-Electronic-Cash-System.pdf), [Majority is Not Enough](https://github.com/BlockchainAtColumbia/BlockchainsAndCryptocurrencies/blob/master/papers/Majority-Is-Not-Enough.pdf)  |
-| 3   | 10/25/18 | **Byzantine Fault Tolerance** <br>  Byzantine General's Problem, Byzantine Agreement  | TBA  |  TBA |
+| 3   | 10/25/18 | **Byzantine Fault Tolerance** <br>  Byzantine General's Problem, Byzantine Agreement  | TBA  |  [Byzantine General's Problem](https://github.com/BlockchainAtColumbia/BlockchainsAndCryptocurrencies/blob/master/papers/Byzantine-Generals-Problem.pdf) [Byzantine Fault Tolerance](https://github.com/BlockchainAtColumbia/BlockchainsAndCryptocurrencies/blob/master/papers/Byzantine-Fault-Tolerance.pdf) |
 | 4   | 11/01/18 | **Consensus Protocols** <br>  Proof of stake, proof of work, and alternatives  | Vernon & Nir   |  TBA  |
 | 5   | 11/08/18 | **Altcoins** <br>  Smart Contracts, Stable Coins, ETC  | TBA  |  TBA |
 | 6   | 11/15/18 | **zk-Snarks** <br>  Zcash and zk-SNARKS  | [Dr. Eran Tromer](https://datascience.columbia.edu/eran-tromer)  |  TBA  |
