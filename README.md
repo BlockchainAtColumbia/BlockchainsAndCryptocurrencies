@@ -6,18 +6,29 @@ Blockchain at Columbia will facilitate a free non-credit course titled Blockchai
 
 ## [Location](https://www.google.com/maps/place/Barnard+Hall/@40.8086986,-73.9637763,18z/data=!4m5!3m4!1s0x0:0xcb13ae98cab54656!8m2!3d40.8092104!4d-73.963948) : Barnard Hall Room 409
 
-## [Date and Time](https://calendar.google.com/calendar?cid=Y29sdW1iaWEuZWR1X2l2Z24wODdibGU5bWhhZ3ZoZGZpc3FtcmRzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) : Weekly on Thursday from 6:00 - 7:00 pm
+## [Date and Time](https://calendar.google.com/calendar?cid=Y29sdW1iaWEuZWR1X2l2Z24wODdibGU5bWhhZ3ZoZGZpc3FtcmRzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) : Thursdays from 6:00 - 7:00 pm
+
+## Prerequisites
+There are no prerequisites for this course. However, having taken COMS W3137 Data Structures and Algorithms or an equivalent will be helpful in understanding some of the data structures described in the course.
+
+## Enrollment
+The Fall 2018 enrollment for this course will be available to anyone in the community. There is no registration requirement.
 
 ## <p align=center> Course Syllabus </p>
-
 ------
 
 | Lecture | Date | Topic | Speaker | Readings |
 | :--- | :---  | :---  | :---  | :---  |
-| 1   | 10/11/18 | **Intro to Blockchains & Cryptocurrencies**  <br> Syllabus, Distributed Ledger Technology, Structure of a Blockchain, Wallets  | Martin & Julian  |  TBA |
+| 1   | 10/11/18 | **Intro to Blockchains & Cryptocurrencies**  <br> Syllabus, Distributed Ledger Technology, Structure of a Blockchain, Wallets  | Martin & Julian  |  N/A |
 | 2   | 10/18/18 | **Bitcoin Network** <br>  Intro to Mining, SPV Nodes, Types of Attacks | Martin & Julian  |  [Bitcoin Whitepaper](https://github.com/BlockchainAtColumbia/BlockchainsAndCryptocurrencies/blob/master/papers/Bitcoin-A-Peer-to-Peer-Electronic-Cash-System.pdf)  |
 | 3   | 10/25/18 | **Byzantine Fault Tolerance** <br>  Byzantine General's Problem, Byzantine Agreement  | TBA  |  TBA |
-| 4   | 11/01/18 | **Consensus Protocols** <br>  Proof of stake, proof of work, and alternatives  | TBA   |  TBA  |
+| 4   | 11/01/18 | **Consensus Protocols** <br>  Proof of stake, proof of work, and alternatives  | Vernon & Nir   |  TBA  |
 | 5   | 11/08/18 | **Altcoins** <br>  Smart Contracts, Stable Coins, ETC  | TBA  |  TBA |
 | 6   | 11/15/18 | **zk-Snarks** <br>  Zcash and zk-SNARKS  | [Dr. Eran Tromer](https://datascience.columbia.edu/eran-tromer)  |  TBA  |
 | 7   | 11/29/18 | **Applications** <br> Health Care Applications  | [Dr. Tej Anand](http://sps.columbia.edu/technology-management/faculty/tej-anand)  |  TBA  |
+
+## Reading Assignments
+The readings for this course are expected to be completed before coming to class.
+
+## Feedback
+We want the course to run as smoothly as possible. If you have any suggestions, we would love to hear back from you. Please speak to us before or after class or email us at blockchain@columbia.edu
