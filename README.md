@@ -5,8 +5,10 @@ Blockchain at Columbia will facilitate a free non-credit course titled Blockchai
 **Contact** :  blockchain@columbia.edu
 
 ## [Location](https://www.google.com/maps/place/Barnard+Hall/@40.8086986,-73.9637763,18z/data=!4m5!3m4!1s0x0:0xcb13ae98cab54656!8m2!3d40.8092104!4d-73.963948) : Barnard Hall Room 409
+All lecturers will be held in Barnard Hall Rm. 409 unless otherwise indicated. We will update this page and send a notice to the mailing list if there is a change in room. 
 
 ## [Date and Time](https://calendar.google.com/calendar?cid=Y29sdW1iaWEuZWR1X2l2Z24wODdibGU5bWhhZ3ZoZGZpc3FtcmRzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) : Thursdays from 6:00 - 7:00 pm
+The lecturers will be held weekly on Thursday with the exception of Thanksgiving Break (11/22).
 
 ## Prerequisites
 There are no prerequisites for this course. However, having taken COMS W3137 Data Structures and Algorithms or an equivalent will be helpful in understanding some of the data structures described in the course.
@@ -28,7 +30,7 @@ The Fall 2018 enrollment for this course will be available to anyone in the comm
 | 7   | 11/29/18 | **Applications** <br> Health Care Applications  | [Dr. Tej Anand](http://sps.columbia.edu/technology-management/faculty/tej-anand)  |  TBA  |
 
 ## Reading Assignments
-The readings for this course are expected to be completed before coming to class.
+The readings for this course are expected to be completed before coming to class. You can find the accompanying readings in the syllabus above or in the readings folder.
 
 ## Feedback
-We want the course to run as smoothly as possible. If you have any suggestions, we would love to hear back from you. Please speak to us before or after class or email us at blockchain@columbia.edu
+We want the course to run as smoothly as possible. If you have any suggestions, we would love to hear back from you. Please speak to us before or after class or email us at blockchain@columbia.edu.
