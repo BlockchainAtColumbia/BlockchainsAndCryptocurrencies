@@ -27,7 +27,7 @@ The Fall 2018 enrollment for this course will be available to anyone in the comm
 | 4   | 11/01/18 | **Consensus Protocols** <br>  Proof of stake, proof of work, and alternatives  | Vernon & Nir   |  TBA  |
 | 5   | 11/08/18 | **Altcoins** <br>  Smart Contracts, Stable Coins, ETC  | TBA  |  TBA |
 | 6   | 11/15/18 | **zk-Snarks** <br>  Zcash and zk-SNARKS  | [Dr. Eran Tromer](https://datascience.columbia.edu/eran-tromer)  |  TBA  |
-| 7   | 11/29/18 | **Applications** <br> Health Care Applications  | [Dr. Tej Anand](http://sps.columbia.edu/technology-management/faculty/tej-anand)  |  TBA  |
+| 7   | 11/29/18 | **Applications** <br> Health Care and Entertainment Applications  | [Dr. Tej Anand](http://sps.columbia.edu/technology-management/faculty/tej-anand)  |  TBA  |
 
 ## Reading Assignments
 The readings for this course are expected to be completed before coming to class. You can find the accompanying readings in the syllabus above or in the readings folder.
