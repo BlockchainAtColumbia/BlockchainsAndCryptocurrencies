@@ -14,7 +14,7 @@ The lecturers will be held weekly on Thursday with the exception of Thanksgiving
 There are no prerequisites for this course. However, having taken COMS W3137 Data Structures and Algorithms or an equivalent will be helpful in understanding some of the data structures described in the course.
 
 ## Enrollment
-The Fall 2018 enrollment for this course will be available to anyone in the community. There is no registration requirement.
+The Fall 2018 enrollment for this course will be available to anyone in the community. There is no registration requirement. [Join the Mailing List](https://docs.google.com/forms/d/1KdhQLf5I4cvR9HmGAAYMIyiw-YrJ6XBZGKsmHAoVEls/prefill) to receive course updates.
 
 ## <p align=center> Course Syllabus </p>
 ------
