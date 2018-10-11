@@ -17,7 +17,6 @@ There are no prerequisites for this course. However, having taken COMS W3137 Dat
 The Fall 2018 enrollment for this course will be available to anyone in the community. There is no registration requirement. [Join the Mailing List](https://goo.gl/forms/2wqXnelaQmp20vIm1) to receive course updates.
 
 ## <p align=center> Course Syllabus </p>
-<p align=center> Speakers and Resources are subject to change </p>
 ------
 
 | Lecture | Date | Topic | Speaker | Readings |
