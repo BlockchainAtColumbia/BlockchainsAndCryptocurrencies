@@ -26,7 +26,7 @@ The Fall 2018 enrollment for this course will be available to anyone in the comm
 | 3   | 10/25/18 | **Byzantine Fault Tolerance** <br>  Byzantine General's Problem, Byzantine Agreement  | Vernon Johnson  |  [Byzantine General's Problem](https://github.com/BlockchainAtColumbia/BlockchainsAndCryptocurrencies/blob/master/papers/Byzantine-Generals-Problem.pdf), [Byzantine Fault Tolerance](https://github.com/BlockchainAtColumbia/BlockchainsAndCryptocurrencies/blob/master/papers/Byzantine-Fault-Tolerance.pdf) |
 | 4   | 11/01/18 | **Consensus Protocols** <br>  Proof of stake, proof of work, and alternatives  | Vernon & Nir   |  [Peercoin Paper (POS)](https://github.com/BlockchainAtColumbia/BlockchainsAndCryptocurrencies/blob/master/papers/peercoin-paper.pdf)   |
 | 5   | 11/08/18 | **Altcoins** <br>  Smart Contracts, Stable Coins, ETC  | Nir Kabessa  |  TBA |
-| 6   | 11/15/18 | **zk-Snarks** <br>  Zcash and zk-SNARKS  | [Dr. Eran Tromer](https://datascience.columbia.edu/eran-tromer)  |  TBA  |
+| 6   | 11/15/18 | **zk-Snarks** <br>  Zcash and zk-SNARKS  | [Dr. Eran Tromer](https://datascience.columbia.edu/eran-tromer)  |  [ZCash White Paper](https://github.com/BlockchainAtColumbia/BlockchainsAndCryptocurrencies/blob/master/papers/zerocash.pdf)  |
 | 7   | 11/29/18 | **Applications** <br> Health Care and Entertainment Applications  | [Dr. Tej Anand](http://sps.columbia.edu/technology-management/faculty/tej-anand)  |  TBA  |
 
 ## Reading Assignments
